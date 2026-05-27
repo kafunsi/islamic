@@ -1,0 +1,439 @@
+[28-Apr-2026 22:08:35 Europe/Berlin] Balance Check Response: {"code":120,"message":"Invalid Authentication Parameters"}
+[28-Apr-2026 22:08:55 Europe/Berlin] Balance Check Response: {"code":120,"message":"Invalid Authentication Parameters"}
+[28-Apr-2026 22:09:05 Europe/Berlin] Balance Check Response: {"code":120,"message":"Invalid Authentication Parameters"}
+[28-Apr-2026 22:09:12 Europe/Berlin] Balance Check Response: {"code":120,"message":"Invalid Authentication Parameters"}
+[28-Apr-2026 22:23:02 Europe/Berlin] Balance Check Response [401]: {"code":120,"message":"Invalid Authentication Parameters"}
+[28-Apr-2026 22:26:53 Europe/Berlin] Balance Check Response [401]: {"code":120,"message":"Invalid Authentication Parameters"}
+[28-Apr-2026 22:27:04 Europe/Berlin] Balance Check Response [401]: {"code":120,"message":"Invalid Authentication Parameters"}
+[28-Apr-2026 22:27:10 Europe/Berlin] Balance Check Response [401]: {"code":120,"message":"Invalid Authentication Parameters"}
+[28-Apr-2026 22:27:21 Europe/Berlin] Balance Check Response [401]: {"code":120,"message":"Invalid Authentication Parameters"}
+[28-Apr-2026 22:27:29 Europe/Berlin] Balance Check Response [401]: {"code":120,"message":"Invalid Authentication Parameters"}
+[28-Apr-2026 22:27:35 Europe/Berlin] Balance Check Response [401]: {"code":120,"message":"Invalid Authentication Parameters"}
+[28-Apr-2026 22:30:30 Europe/Berlin] Balance Check Response [200]: {"data":{"credit_balance":20}}
+[28-Apr-2026 22:30:42 Europe/Berlin] Balance Check Response [200]: {"data":{"credit_balance":20}}
+[28-Apr-2026 22:30:50 Europe/Berlin] Balance Check Response [200]: {"data":{"credit_balance":20}}
+[28-Apr-2026 22:31:02 Europe/Berlin] Balance Check Response [200]: {"data":{"credit_balance":20}}
+[28-Apr-2026 22:32:08 Europe/Berlin] Balance Check Response [200]: {"data":{"credit_balance":20}}
+[28-Apr-2026 22:32:28 Europe/Berlin] Balance Check Response [200]: {"data":{"credit_balance":20}}
+[28-Apr-2026 22:32:37 Europe/Berlin] Balance Check Response [200]: {"data":{"credit_balance":20}}
+[28-Apr-2026 22:55:29 Europe/Berlin] Balance Check [404] from https://apisms.beem.africa/v1/balance: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /v1/balance</pre>
+</body>
+</html>
+
+[28-Apr-2026 22:55:32 Europe/Berlin] Balance Check [404] from https://apisms.beem.africa/v1/get-balance: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /v1/get-balance</pre>
+</body>
+</html>
+
+[28-Apr-2026 22:55:38 Europe/Berlin] Balance Check [200] from https://apisms.beem.africa/public/v1/vendors/balance: {"data":{"credit_balance":20}}
+[28-Apr-2026 22:55:52 Europe/Berlin] Balance Check [404] from https://apisms.beem.africa/v1/balance: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /v1/balance</pre>
+</body>
+</html>
+
+[28-Apr-2026 22:55:53 Europe/Berlin] Balance Check [404] from https://apisms.beem.africa/v1/get-balance: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /v1/get-balance</pre>
+</body>
+</html>
+
+[28-Apr-2026 22:56:03 Europe/Berlin] Balance Check [0] from https://apisms.beem.africa/public/v1/vendors/balance: 
+[28-Apr-2026 23:03:53 Europe/Berlin] Balance Check Live [200]: {"data":{"credit_balance":20}}
+[28-Apr-2026 23:04:03 Europe/Berlin] Balance Check Live [200]: {"data":{"credit_balance":20}}
+[28-Apr-2026 23:04:25 Europe/Berlin] Balance Check Live [200]: {"data":{"credit_balance":20}}
+[28-Apr-2026 23:05:29 Europe/Berlin] Balance Check Live [200]: {"data":{"credit_balance":20}}
+[28-Apr-2026 23:05:40 Europe/Berlin] Balance Check Live [200]: {"data":{"credit_balance":20}}
+[28-Apr-2026 23:09:47 Europe/Berlin] Balance Check Live [200]: {"data":{"credit_balance":20}}
+[28-Apr-2026 23:10:26 Europe/Berlin] Balance Check Live [200]: {"data":{"credit_balance":20}}
+[28-Apr-2026 23:10:42 Europe/Berlin] Balance Check Live [200]: {"data":{"credit_balance":20}}
+[28-Apr-2026 23:11:45 Europe/Berlin] Balance Check Live [200]: {"data":{"credit_balance":20}}
+[28-Apr-2026 23:14:21 Europe/Berlin] Balance Check Live [200]: {"data":{"credit_balance":20}}
+[28-Apr-2026 23:14:46 Europe/Berlin] Balance Check Live [200]: {"data":{"credit_balance":20}}
+[28-Apr-2026 23:27:50 Europe/Berlin] Balance Check Live [200]: {"data":{"credit_balance":20}}
+[28-Apr-2026 23:28:37 Europe/Berlin] Balance Check Live [200]: {"data":{"credit_balance":20}}
+[29-Apr-2026 00:05:10 Europe/Berlin] Balance Check [200]: {"data":{"credit_balance":20}}
+[29-Apr-2026 00:18:29 Europe/Berlin] Balance Check [200]: {"data":{"credit_balance":20}}
+[29-Apr-2026 00:19:07 Europe/Berlin] Balance Check [200]: {"data":{"credit_balance":20}}
+[29-Apr-2026 00:19:50 Europe/Berlin] Balance Check [200]: {"data":{"credit_balance":20}}
+[29-Apr-2026 00:31:56 Europe/Berlin] // Balance Check [200]: {"data":{"credit_balance":20}}
+[29-Apr-2026 00:32:21 Europe/Berlin] // Balance Check [200]: {"data":{"credit_balance":20}}
+[29-Apr-2026 00:41:53 Europe/Berlin] // Balance Check [200]: {"data":{"credit_balance":20}}
+[29-Apr-2026 00:42:00 Europe/Berlin] // Balance Check [200]: {"data":{"credit_balance":20}}
+[29-Apr-2026 00:42:08 Europe/Berlin] // Balance Check [200]: {"data":{"credit_balance":20}}
+[29-Apr-2026 00:42:25 Europe/Berlin] // Balance Check [200]: {"data":{"credit_balance":20}}
+[29-Apr-2026 01:14:35 Europe/Berlin] // Beem Stats Response [404]: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /v1/reports/summary</pre>
+</body>
+</html>
+
+[29-Apr-2026 01:14:36 Europe/Berlin] // Beem Recent SMS Response [404]: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /v1/reports/messages</pre>
+</body>
+</html>
+
+[29-Apr-2026 01:15:22 Europe/Berlin] // Beem Stats Response [404]: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /v1/reports/summary</pre>
+</body>
+</html>
+
+[29-Apr-2026 01:15:23 Europe/Berlin] // Beem Recent SMS Response [404]: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /v1/reports/messages</pre>
+</body>
+</html>
+
+[29-Apr-2026 01:18:39 Europe/Berlin] // Beem Stats Response [404]: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /v1/reports/summary</pre>
+</body>
+</html>
+
+[29-Apr-2026 01:18:40 Europe/Berlin] // Beem Recent SMS Response [404]: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /v1/reports/messages</pre>
+</body>
+</html>
+
+[29-Apr-2026 01:19:48 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\islamic\header.php:4) in C:\xampp\htdocs\islamic\index.php on line 234
+[29-Apr-2026 16:30:31 Europe/Berlin] === BEEM SMS SEND START ===
+[29-Apr-2026 16:30:31 Europe/Berlin] // Clean phone: 0756789123
+[29-Apr-2026 16:30:31 Europe/Berlin] // Final phone: 255756789123
+[29-Apr-2026 16:30:31 Europe/Berlin] // Payload: {"source_addr":"INFO","encoding":0,"message":"Test SMS from Islamic SMS System at 16:30:31","recipients":[{"recipient_id":1,"dest_addr":"255756789123"}]}
+[29-Apr-2026 16:30:36 Europe/Berlin] // HTTP Code: 400
+[29-Apr-2026 16:30:36 Europe/Berlin] // Response: {"data":{"error_code":"API_INVALID_PARAMETER","message":"Invalid Sender ID.","status_code":400,"retryable":true,"context":{"field":"sender_id"}}}
+[29-Apr-2026 16:30:36 Europe/Berlin] // SMS FAILED!
+[29-Apr-2026 17:12:38 Europe/Berlin] // BULK SMS DISABLED - TEST MODE
+[29-Apr-2026 17:15:10 Europe/Berlin] // Beem Stats Response [404]: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /v1/reports/summary</pre>
+</body>
+</html>
+
+[29-Apr-2026 17:15:11 Europe/Berlin] // Beem Recent SMS Response [404]: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /v1/reports/messages</pre>
+</body>
+</html>
+
+[29-Apr-2026 17:18:26 Europe/Berlin] // Beem Stats Response [404]: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /v1/reports/summary</pre>
+</body>
+</html>
+
+[29-Apr-2026 17:18:27 Europe/Berlin] // Beem Recent SMS Response [404]: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /v1/reports/messages</pre>
+</body>
+</html>
+
+[29-Apr-2026 17:21:11 Europe/Berlin] === BEEM SMS SEND START ===
+[29-Apr-2026 17:21:11 Europe/Berlin] // Clean phone: 0756789123
+[29-Apr-2026 17:21:11 Europe/Berlin] // Final phone: 255756789123
+[29-Apr-2026 17:21:11 Europe/Berlin] // Payload: {"source_addr":"INFO","encoding":0,"message":"Test SMS from Islamic SMS System at 17:21:11","recipients":[{"recipient_id":1,"dest_addr":"255756789123"}]}
+[29-Apr-2026 17:21:13 Europe/Berlin] // HTTP Code: 400
+[29-Apr-2026 17:21:13 Europe/Berlin] // Response: {"data":{"error_code":"API_INVALID_PARAMETER","message":"Invalid Sender ID.","status_code":400,"retryable":true,"context":{"field":"sender_id"}}}
+[29-Apr-2026 17:21:13 Europe/Berlin] // SMS FAILED!
+[29-Apr-2026 17:23:00 Europe/Berlin] === BEEM SMS SEND START ===
+[29-Apr-2026 17:23:00 Europe/Berlin] // Clean phone: 0756789123
+[29-Apr-2026 17:23:00 Europe/Berlin] // Final phone: 255756789123
+[29-Apr-2026 17:23:00 Europe/Berlin] // Payload: {"source_addr":"291aed49d8256b67","encoding":0,"message":"Test SMS from Islamic SMS System at 17:23:00","recipients":[{"recipient_id":1,"dest_addr":"255756789123"}]}
+[29-Apr-2026 17:23:01 Europe/Berlin] // HTTP Code: 400
+[29-Apr-2026 17:23:01 Europe/Berlin] // Response: {"data":{"error_code":"API_INVALID_PARAMETER","message":"Invalid Sender ID.","status_code":400,"retryable":true,"context":{"field":"sender_id"}}}
+[29-Apr-2026 17:23:01 Europe/Berlin] // SMS FAILED!
+[29-Apr-2026 17:24:53 Europe/Berlin] // Beem Stats Response [404]: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /v1/reports/summary</pre>
+</body>
+</html>
+
+[29-Apr-2026 17:24:55 Europe/Berlin] // Beem Recent SMS Response [404]: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /public/v1/reports/messages</pre>
+</body>
+</html>
+
+[29-Apr-2026 17:27:25 Europe/Berlin] // Beem Stats Response [404]: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /v1/reports/summary</pre>
+</body>
+</html>
+
+[29-Apr-2026 17:27:27 Europe/Berlin] // Beem Recent SMS Response [404]: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /public/v1/reports/messages</pre>
+</body>
+</html>
+
+[29-Apr-2026 17:27:48 Europe/Berlin] // Beem Stats Response [404]: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /v1/reports/summary</pre>
+</body>
+</html>
+
+[29-Apr-2026 17:27:50 Europe/Berlin] // Beem Recent SMS Response [404]: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /public/v1/reports/messages</pre>
+</body>
+</html>
+
+[29-Apr-2026 18:13:57 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "require" in C:\xampp\htdocs\islamic\pages\send.php on line 2
+[29-Apr-2026 18:14:21 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "require" in C:\xampp\htdocs\islamic\pages\send.php on line 2
+[29-Apr-2026 18:14:51 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "require" in C:\xampp\htdocs\islamic\pages\send.php on line 2
+[29-Apr-2026 18:15:09 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "require" in C:\xampp\htdocs\islamic\pages\send.php on line 2
+[29-Apr-2026 18:17:29 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "require" in C:\xampp\htdocs\islamic\pages\send.php on line 2
+[29-Apr-2026 18:17:32 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "require" in C:\xampp\htdocs\islamic\pages\send.php on line 2
+[29-Apr-2026 18:17:33 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "require" in C:\xampp\htdocs\islamic\pages\send.php on line 2
+[29-Apr-2026 18:17:36 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "require" in C:\xampp\htdocs\islamic\pages\send.php on line 2
+[29-Apr-2026 18:17:48 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "require" in C:\xampp\htdocs\islamic\pages\send.php on line 2
+[29-Apr-2026 18:31:33 Europe/Berlin] === BEEM SMS SEND START ===
+[29-Apr-2026 18:31:33 Europe/Berlin] // Original phone: 0712345678
+[29-Apr-2026 18:31:33 Europe/Berlin] // Cleaned phone: 0712345678
+[29-Apr-2026 18:31:33 Europe/Berlin] // Converted from 0xxxx to: 255712345678
+[29-Apr-2026 18:31:33 Europe/Berlin] // FINAL PHONE (CORRECT): 255712345678
+[29-Apr-2026 18:31:33 Europe/Berlin] // No Sender ID (using default)
+[29-Apr-2026 18:31:33 Europe/Berlin] // Payload: {"encoding":0,"message":"Habari, hii ni test SMS kutoka Islamic System - 18:31:33","recipients":[{"recipient_id":1,"dest_addr":"255712345678"}]}
+[29-Apr-2026 18:31:36 Europe/Berlin] // HTTP Code: 400
+[29-Apr-2026 18:31:36 Europe/Berlin] // Response: {"error_code":"API_INVALID_PARAMETER","message":"Invalid Sender ID.","status_code":400,"retryable":true,"context":{"field":"sender_id"}}
+[29-Apr-2026 18:31:36 Europe/Berlin] // Beem Error: Invalid Sender ID.
+[29-Apr-2026 18:31:36 Europe/Berlin] // SMS FAILED!
+[29-Apr-2026 18:38:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function checkBeemBalance() in C:\xampp\htdocs\islamic\index.php:61
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\islamic\index.php on line 61
+[29-Apr-2026 18:39:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function checkBeemBalance() in C:\xampp\htdocs\islamic\index.php:61
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\islamic\index.php on line 61
+[29-Apr-2026 18:39:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function checkBeemBalance() in C:\xampp\htdocs\islamic\index.php:61
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\islamic\index.php on line 61
+[29-Apr-2026 18:40:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function checkBeemBalance() in C:\xampp\htdocs\islamic\index.php:61
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\islamic\index.php on line 61
+[29-Apr-2026 18:40:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function checkBeemBalance() in C:\xampp\htdocs\islamic\index.php:61
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\islamic\index.php on line 61
+[29-Apr-2026 18:40:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function checkBeemBalance() in C:\xampp\htdocs\islamic\index.php:61
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\islamic\index.php on line 61
+[29-Apr-2026 18:40:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function checkBeemBalance() in C:\xampp\htdocs\islamic\index.php:61
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\islamic\index.php on line 61
+[30-Apr-2026 23:26:17 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\islamic\header.php:4) in C:\xampp\htdocs\islamic\index.php on line 48
+[30-Apr-2026 23:44:54 Europe/Berlin] === FORM SUBMITTED: send_sms ===
+[30-Apr-2026 23:44:54 Europe/Berlin] Recipient Type: custom
+[30-Apr-2026 23:44:54 Europe/Berlin] Message: 🎉 HARUSI 🎉
+
+Alhamdulillah!
+
+Bwana harusi: kafunsi
+Bibi harusi: mwajuma
+
+Tarehe: 23/03/2026
+Mahali: kwao
+
+karibuni sana kuhudhuria harusi yetu
+
+Tunalikaribisha jopo kwa furaha na baraka.
+
+★ Ijumbe kutoka Islamic SMS ★
+[30-Apr-2026 23:44:54 Europe/Berlin] Save to DB: Yes
+[30-Apr-2026 23:44:54 Europe/Berlin] Total recipients: 1
+[30-Apr-2026 23:44:54 Europe/Berlin] Processing: Nambari Maalum - 0712837307
+[30-Apr-2026 23:44:54 Europe/Berlin] SMS_ENABLED is TRUE, calling sendSMSBeem()
+[30-Apr-2026 23:44:54 Europe/Berlin] === BEEM SMS SEND START ===
+[30-Apr-2026 23:44:54 Europe/Berlin] // Original phone: 0712837307
+[30-Apr-2026 23:44:54 Europe/Berlin] // Cleaned phone (numeric): 0712837307
+[30-Apr-2026 23:44:54 Europe/Berlin] // Converted from 0xxxx to: +255712837307
+[30-Apr-2026 23:44:54 Europe/Berlin] // FINAL PHONE (CORRECT +255 FORMAT): +255712837307
+[30-Apr-2026 23:44:54 Europe/Berlin] // No Sender ID (using default)
+[30-Apr-2026 23:44:54 Europe/Berlin] // Payload: {"encoding":0,"message":"\ud83c\udf89 HARUSI \ud83c\udf89\r\n\r\nAlhamdulillah!\r\n\r\nBwana harusi: kafunsi\r\nBibi harusi: mwajuma\r\n\r\nTarehe: 23\/03\/2026\r\nMahali: kwao\r\n\r\nkaribuni sana kuhudhuria harusi yetu\r\n\r\nTunalikaribisha jopo kwa furaha na baraka.\r\n\r\n\u2605 Ijumbe kutoka Islamic SMS \u2605","recipients":[{"recipient_id":1,"dest_addr":"+255712837307"}]}
+[30-Apr-2026 23:44:55 Europe/Berlin] // HTTP Code: 400
+[30-Apr-2026 23:44:55 Europe/Berlin] // Response: {"error_code":"API_INVALID_PARAMETER","message":"Invalid Sender ID.","status_code":400,"retryable":true,"context":{"field":"sender_id"}}
+[30-Apr-2026 23:44:55 Europe/Berlin] // Beem Error: Invalid Sender ID.
+[30-Apr-2026 23:44:55 Europe/Berlin] // SMS FAILED!
+[30-Apr-2026 23:44:55 Europe/Berlin] sendSMSBeem returned: FALSE
+[30-Apr-2026 23:44:55 Europe/Berlin] Request ID: NULL
+[30-Apr-2026 23:44:55 Europe/Berlin] Saved to database with status: failed
+[30-Apr-2026 23:44:55 Europe/Berlin] === SMS SENDING COMPLETE: Sent=0, Failed=1 ===
+[01-May-2026 00:18:49 Europe/Berlin] === FORM SUBMITTED: send_sms ===
+[01-May-2026 00:18:49 Europe/Berlin] Recipient Type: all
+[01-May-2026 00:18:49 Europe/Berlin] Message: 🎉 HARUSI 🎉
+
+Alhamdulillah!
+
+Bwana harusi: kafunsi
+Bibi harusi: mwajuma
+
+Tarehe: 23/03/2026
+Mahali: kwao
+
+tuzingatie muda wa shereh
+
+Tunalikaribisha jopo kwa furaha na baraka.
+
+★ Ijumbe kutoka Islamic SMS ★
+[01-May-2026 00:18:49 Europe/Berlin] Save to DB: Yes
+[01-May-2026 00:18:49 Europe/Berlin] Total recipients: 3
+[01-May-2026 00:18:49 Europe/Berlin] Processing: Ahmed Hassan - 0712345678
+[01-May-2026 00:18:49 Europe/Berlin] SMS_ENABLED is TRUE, calling sendSMSBeem()
+[01-May-2026 00:18:49 Europe/Berlin] === BEEM SMS SEND START ===
+[01-May-2026 00:18:49 Europe/Berlin] // Original phone: 0712345678
+[01-May-2026 00:18:49 Europe/Berlin] // Cleaned phone (numeric): 0712345678
+[01-May-2026 00:18:49 Europe/Berlin] // Converted from 0xxxx to: +255712345678
+[01-May-2026 00:18:49 Europe/Berlin] // FINAL PHONE (CORRECT +255 FORMAT): +255712345678
+[01-May-2026 00:18:49 Europe/Berlin] // No Sender ID (using default)
+[01-May-2026 00:18:49 Europe/Berlin] // Payload: {"encoding":0,"message":"\ud83c\udf89 HARUSI \ud83c\udf89\r\n\r\nAlhamdulillah!\r\n\r\nBwana harusi: kafunsi\r\nBibi harusi: mwajuma\r\n\r\nTarehe: 23\/03\/2026\r\nMahali: kwao\r\n\r\ntuzingatie muda wa shereh\r\n\r\nTunalikaribisha jopo kwa furaha na baraka.\r\n\r\n\u2605 Ijumbe kutoka Islamic SMS \u2605","recipients":[{"recipient_id":1,"dest_addr":"+255712345678"}]}
+[01-May-2026 00:18:50 Europe/Berlin] // HTTP Code: 400
+[01-May-2026 00:18:50 Europe/Berlin] // Response: {"error_code":"API_INVALID_PARAMETER","message":"Invalid Sender ID.","status_code":400,"retryable":true,"context":{"field":"sender_id"}}
+[01-May-2026 00:18:50 Europe/Berlin] // Beem Error: Invalid Sender ID.
+[01-May-2026 00:18:50 Europe/Berlin] // SMS FAILED!
+[01-May-2026 00:18:50 Europe/Berlin] sendSMSBeem returned: FALSE
+[01-May-2026 00:18:50 Europe/Berlin] Request ID: NULL
+[01-May-2026 00:18:50 Europe/Berlin] Saved to database with status: failed
+[01-May-2026 00:18:50 Europe/Berlin] Processing: Fatima Said - 0723456789
+[01-May-2026 00:18:50 Europe/Berlin] SMS_ENABLED is TRUE, calling sendSMSBeem()
+[01-May-2026 00:18:50 Europe/Berlin] === BEEM SMS SEND START ===
+[01-May-2026 00:18:50 Europe/Berlin] // Original phone: 0723456789
+[01-May-2026 00:18:50 Europe/Berlin] // Cleaned phone (numeric): 0723456789
+[01-May-2026 00:18:50 Europe/Berlin] // Converted from 0xxxx to: +255723456789
+[01-May-2026 00:18:50 Europe/Berlin] // FINAL PHONE (CORRECT +255 FORMAT): +255723456789
+[01-May-2026 00:18:50 Europe/Berlin] // No Sender ID (using default)
+[01-May-2026 00:18:50 Europe/Berlin] // Payload: {"encoding":0,"message":"\ud83c\udf89 HARUSI \ud83c\udf89\r\n\r\nAlhamdulillah!\r\n\r\nBwana harusi: kafunsi\r\nBibi harusi: mwajuma\r\n\r\nTarehe: 23\/03\/2026\r\nMahali: kwao\r\n\r\ntuzingatie muda wa shereh\r\n\r\nTunalikaribisha jopo kwa furaha na baraka.\r\n\r\n\u2605 Ijumbe kutoka Islamic SMS \u2605","recipients":[{"recipient_id":1,"dest_addr":"+255723456789"}]}
+[01-May-2026 00:18:51 Europe/Berlin] // HTTP Code: 400
+[01-May-2026 00:18:51 Europe/Berlin] // Response: {"error_code":"API_INVALID_PARAMETER","message":"Invalid Sender ID.","status_code":400,"retryable":true,"context":{"field":"sender_id"}}
+[01-May-2026 00:18:51 Europe/Berlin] // Beem Error: Invalid Sender ID.
+[01-May-2026 00:18:51 Europe/Berlin] // SMS FAILED!
+[01-May-2026 00:18:51 Europe/Berlin] sendSMSBeem returned: FALSE
+[01-May-2026 00:18:51 Europe/Berlin] Request ID: NULL
+[01-May-2026 00:18:51 Europe/Berlin] Saved to database with status: failed
+[01-May-2026 00:18:51 Europe/Berlin] Processing: Mohamed Juma - 0734567890
+[01-May-2026 00:18:51 Europe/Berlin] SMS_ENABLED is TRUE, calling sendSMSBeem()
+[01-May-2026 00:18:51 Europe/Berlin] === BEEM SMS SEND START ===
+[01-May-2026 00:18:51 Europe/Berlin] // Original phone: 0734567890
+[01-May-2026 00:18:51 Europe/Berlin] // Cleaned phone (numeric): 0734567890
+[01-May-2026 00:18:51 Europe/Berlin] // Converted from 0xxxx to: +255734567890
+[01-May-2026 00:18:51 Europe/Berlin] // FINAL PHONE (CORRECT +255 FORMAT): +255734567890
+[01-May-2026 00:18:51 Europe/Berlin] // No Sender ID (using default)
+[01-May-2026 00:18:51 Europe/Berlin] // Payload: {"encoding":0,"message":"\ud83c\udf89 HARUSI \ud83c\udf89\r\n\r\nAlhamdulillah!\r\n\r\nBwana harusi: kafunsi\r\nBibi harusi: mwajuma\r\n\r\nTarehe: 23\/03\/2026\r\nMahali: kwao\r\n\r\ntuzingatie muda wa shereh\r\n\r\nTunalikaribisha jopo kwa furaha na baraka.\r\n\r\n\u2605 Ijumbe kutoka Islamic SMS \u2605","recipients":[{"recipient_id":1,"dest_addr":"+255734567890"}]}
+[01-May-2026 00:18:51 Europe/Berlin] // HTTP Code: 400
+[01-May-2026 00:18:51 Europe/Berlin] // Response: {"error_code":"API_INVALID_PARAMETER","message":"Invalid Sender ID.","status_code":400,"retryable":true,"context":{"field":"sender_id"}}
+[01-May-2026 00:18:51 Europe/Berlin] // Beem Error: Invalid Sender ID.
+[01-May-2026 00:18:51 Europe/Berlin] // SMS FAILED!
+[01-May-2026 00:18:51 Europe/Berlin] sendSMSBeem returned: FALSE
+[01-May-2026 00:18:51 Europe/Berlin] Request ID: NULL
+[01-May-2026 00:18:51 Europe/Berlin] Saved to database with status: failed
+[01-May-2026 00:18:51 Europe/Berlin] === SMS SENDING COMPLETE: Sent=0, Failed=3 ===
